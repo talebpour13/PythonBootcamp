@@ -21,7 +21,3 @@ radius = int(input("Enter the radius of the circle: "))
 pi = 3.14
 
 print(f"\nThe radius of the circle: {radius} \n\nThe area of the circle is: {pi * radius ** 2} \n\nThe circumference of the circle is: {2 * pi * radius}\n") 
-
-
-
-

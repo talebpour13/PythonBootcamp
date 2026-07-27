@@ -8,9 +8,7 @@ b = "age"
 c = "weight"
 d = "city"
 
-
 print(a+" : "+name)
 print(b+" : "+age)
 print(c+" : "+weight)
 print(d+" : "+city)
-
